@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestrauntApp</string>
+    <string name="this_is_restraunt_desciption">KC Restaurant in Delhi. Chinese Restaurants with Address, Contact Number, Photos, Maps. View KC Restaurant, Delhi on Justdial.
+        Making way for a hearty meal is KC Restaurant in Delhi. Established in the year 2014, this place is synonymous with delicious food that can satiate all food cravings.
+        It is home to some of the most appreciated cuisines which include Chinese. So as to be able to cater to a large number of diners, it occupies a favourable location at Dwarka Sector 7.
+        </string>
+    <string name="contact">Contact: +91 8800112244</string>
+    <string name="address">Address: C-396, Dwarka Sector 7, Delhi - 110075, Near Ramphal Chowk, Opposite Relaxo Showroom, Palam Extension</string>
+    <string name="title">KC Restaurant</string>
+</resources>
